@@ -1,0 +1,9 @@
+scoreboard objectives add DiggyPigs_Stone dummy
+scoreboard objectives add DiggyPigs_Carrot dummy
+scoreboard objectives add DiggyPigs_Pickaxe dummy
+scoreboard objectives add DiggyPigs_PigType dummy
+scoreboard objectives add DiggyPigs_PigEnergy dummy
+scoreboard objectives add DiggyPigs_PigStone dummy
+scoreboard objectives add DiggyPigs_PigBroken dummy
+scoreboard objectives add DiggyPigs_PigEat dummy
+scoreboard objectives add DiggyPigs_Life dummy
