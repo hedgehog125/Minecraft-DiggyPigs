@@ -1,0 +1,5 @@
+Mojang for Minecraft (https://minecraft.net/), 
+DigMinecraft for the villager trade generator (https://www.digminecraft.com/generators/villager_trade.php) 
+and MinecraftJSON for a very useful JSON generator (https://www.minecraftjson.com/).
+
+And the rest is by me @hedgehog125
